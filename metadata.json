@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix RPG Banco \u0026 Fichas de Campanha",
+  "description": "Plataforma online para campanhas de RPG com códigos de sala, criação de fichas de personagens completas e sistema monetário com transações em tempo real para o Mestre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
